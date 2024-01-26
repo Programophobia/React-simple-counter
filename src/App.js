@@ -5,7 +5,7 @@ import TimeCounter from "./components/TimeCounter/TimeCounter";
 const App = () => {
   return (
     <section>
-       <TimeCounter/>
+       <TimeCounter />
        <Button>Start</Button>
        <Button>Stop</Button>
        <Button>Reset</Button>
